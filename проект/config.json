@@ -1,0 +1,18 @@
+{
+  "config": {
+    "max_responses":5,
+    "name":"AndrGole_SearchEngine",
+    "version":"0.1"
+  },
+  "files": [
+    "file001.txt",
+    "file002.txt",
+    "file003.txt",
+    "file004.txt",
+    "file005.txt",
+    "file006.txt",
+    "file007.txt",
+    "file008.txt",
+    "file009.txt"
+  ]
+}
